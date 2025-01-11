@@ -5,3 +5,6 @@
 было возможно применить декоратор к базовой версии и получить данные в формате JSON (class ConcreteDecoratorJSON);  
 было возможно использовать декоратор к базовой версии (CurrenciesList) или к другому декоратору (ConcreteDecoratorJSON) и получить данные в формате csv (class ConcreteDecoratorCSV).  
 ![image](https://github.com/user-attachments/assets/aa6f5289-8a41-4e84-b370-74e6e5ccfcfb)
+
+Тесты  
+![image](https://github.com/user-attachments/assets/aeacf354-533d-4ab4-a186-701c118ace2a)
